@@ -2,16 +2,23 @@
 
 
 Requisitos previos de software
+Requisitos previos de software
 Sistema Operativo Windows 10
-Sublime Text 3    http://www.sublimetext.com/
-package control   https://packagecontrol.io/
-  git
-  gitGutter
-  HTMLBeautify
-  Javascript Bautify
-  angularjs
+
+Visual Studio Code https://code.visualstudio.com/
   
 git               http://git-scm.com/
+
+github repos      https://github.com/viejocar/angularjs_curso
+
+
+Creamos el repositorio en Github.
+A través de Git GUI clonamos el proyecto vacío recien creado en github.com
+Iniciamos VS Code y abrimos la carpeta donde hemos clonado el repositorio vía https:
+
+https://github.com/viejocar/angularjs_curso.git
+
+Ahora desde la pestaña de git dentro de VS Code hacemos el commit de los ficheros modificados.
 
 nodejs            https://nodejs.org/en/
 bower             http://bower.io/
