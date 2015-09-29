@@ -3,11 +3,20 @@
 
 Requisitos previos de software
 Sistema Operativo Windows 10
-Sublime Text 3
-nodejs
-bower
+Sublime Text 3    http://www.sublimetext.com/
+package control   https://packagecontrol.io/
+  git
+  gitGutter
+  HTMLBeautify
+  Javascript Bautify
+  angularjs
+  
+git               http://git-scm.com/
 
-angularjs
-bootstrap
+nodejs            https://nodejs.org/en/
+bower             http://bower.io/
+
+angularjs         https://angularjs.org/
+bootstrap         http://getbootstrap.com/
 
 quizá usemos angular.io (controles para angular).
